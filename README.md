@@ -4,8 +4,8 @@
 
 # Be.academy - Agenda PHP
 
-- Atividade de PHP
-- Criando uma agenda 
+
+- Criando uma agenda com PHP
 
 
 
